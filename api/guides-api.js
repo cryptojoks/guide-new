@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import json from '../../index.json'
+import json from '../index.json'
 
 const cache = indexedData()
 
