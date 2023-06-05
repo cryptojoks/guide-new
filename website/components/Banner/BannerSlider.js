@@ -30,7 +30,7 @@ function BannerItem({ name }) {
             Discover, store, grow while staying private.
           </div>
           <div className="Banner-description animate__animated animate__fadeInUp animate__fast text-yellow">
-            <a href="https://unstoppable.money/" target="_blank" rel="noopener noreferrer">
+            <a href="https://anofy.money/" target="_blank" rel="noopener noreferrer">
               Learn More <Arrow className="ml-2 inline" />
             </a>
           </div>
