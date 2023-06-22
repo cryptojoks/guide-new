@@ -12,31 +12,31 @@
       {
         "en": {
           "title": "Cryptocurrency Explained",
-          "image": "fundamentals/images/01-main-l.png",
+          "image": "https://antofy.academy/images/01-main-l.png",
           "file": "guides/fundamentals/en/1-cryptocurrency-basics.md",
           "updated_at": "2020-06-01"
         },
         "ru": {
           "title": "Криптовалюта",
-          "image": "guides/fundamentals/images/01-main-l.png",
+          "image": "https://antofy.academy/images/01-main-l.png",
           "file": "guides/fundamentals/ru/1-cryptocurrency-basics.md",
           "updated_at": "2020-06-01"
         },
         "fr": {
           "title": "Crypto-monnaie",
-          "image": "guides/fundamentals/images/01-main-l.png",
+          "image": "https://antofy.academy/images/01-main-l.png",
           "file": "guides/fundamentals/fr/1-cryptocurrency-basics.md",
           "updated_at": "2020-06-01"
         },
         "de": {
           "title": "Kryptowährung",
-          "image": "guides/fundamentals/images/01-main-l.png",
+          "image": "https://antofy.academy/images/01-main-l.png",
           "file": "guides/fundamentals/de/1-cryptocurrency-basics.md",
           "updated_at": "2020-06-01"
         },
         "fa": {
           "title": "رمزارز یا کریپتوکارنسی",
-          "image": "guides/fundamentals/images/01-main-l.png",
+          "image": "https://antofy.academy/images/01-main-l.png",
           "file": "guides/fundamentals/fa/1-cryptocurrency-basics.md",
           "updated_at": "2020-06-01"
         }
