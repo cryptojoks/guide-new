@@ -1,4 +1,4 @@
-![](../images/aave-Main-l.png)
+![](https://antofy.academy/images/aave-Main-l.png)
 
 # Aave in Simple Terms
 
