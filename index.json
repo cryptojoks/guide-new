@@ -12,7 +12,7 @@
       {
         "en": {
           "title": "Cryptocurrency Explained",
-          "image": "guides/fundamentals/images/01-main-l.png",
+          "image": "https://antofy.academy/images/01-main-l.png",
           "file": "guides/fundamentals/en/1-cryptocurrency-basics.md",
           "updated_at": "2020-06-01"
         },
