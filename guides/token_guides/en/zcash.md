@@ -1,4 +1,4 @@
-![](https://guide-new-npx5.vercel.app/images/Zcash-Main-l.png)
+![](../images/Zcash-Main-l.png)
 
 # Zcash In Simple Terms
 
