@@ -12,7 +12,7 @@
       {
         "en": {
           "title": "Cryptocurrency Explained",
-          "image": "/images/01-main-l.png",
+          "image": "https://github.com/cryptojoks/guide-new/blob/main/images/01-main-l.png",
           "file": "guides/fundamentals/en/1-cryptocurrency-basics.md",
           "updated_at": "2020-06-01"
         },
