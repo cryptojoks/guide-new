@@ -59,7 +59,7 @@
 
 برخی از موارد مورد علاقه ما عبارتند از:
 
-- [Unstoppable Wallet](https://unstoppable.money)
+- [Antofy Wallet](https://antofy.money)
 - [Bread Wallet](https://brd.com)
 
 از نظر امنیتی ، کیف پول سخت افزاری نسبت به کیف پول موبایل امن تر به نظر می رسید.

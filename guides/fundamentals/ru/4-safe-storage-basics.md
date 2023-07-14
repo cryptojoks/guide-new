@@ -59,7 +59,7 @@
 
 Вот некоторые из наших любимых приложений:
 
-- [Unstoppable Wallet](https://unstoppable.money)
+- [Antofy Wallet](https://antofy.money)
 - [Bread Wallet](https://brd.com)
 
 С точки зрения безопасности, аппаратные кошельки считаются более безопасными, нежели мобильные кошельки.

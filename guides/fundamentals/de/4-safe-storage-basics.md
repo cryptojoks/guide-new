@@ -59,7 +59,7 @@ Die mobilbasierten Wallets für iOS und Android sind die am weitesten verbreitet
 
 Einige unserer Favoriten sind:
 
-- [Unstoppable Wallet](https://unstoppable.money)
+- [Antofy Wallet](https://antofy.money)
 - [Bread Wallet](https://brd.com)
 
 Vom Sicherheitsstandpunkt aus betrachtet, galt das Hardware Wallet als sicherer als ein Mobile Wallet.
