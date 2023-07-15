@@ -25,7 +25,7 @@ class Markdown extends React.Component {
     super()
 
     this.state.title = encodeURIComponent(guide.title)
-    this.state.url = 'https://litrex.academy' + router.asPath
+    this.state.url = 'https://antofy.academy' + router.asPath
   }
 
   componentDidMount() {
